@@ -6,7 +6,7 @@
 
 **Стратегия - это серьезно!**
 
-![alt text](https://github.com/anton-dot/Starto.Plan/blob/main/2021-09-24_09-18-36.png?raw=true)
+![alt text](https://github.com/anton-dot/Starto.Plan/blob/main/2021-09-29_12-24-55.png?raw=true)
 
 ## Решаемые задачи
 Система решает комплексную задачу, связанную с управлением организацией
@@ -31,8 +31,8 @@
 - [ ] Виджеты с информацией об отклонениях
 - [ ] Сводная панель CEO
 - [ ] Создание уникального дизайна системы
-- [ ] Создание стратегической карты Нортона-Каплана
-- [ ] Создание произвольных диаграмм
+- [x] Создание стратегической карты Нортона-Каплана
+- [x] Создание произвольных диаграмм
 - [ ] Управление основными процессами (цифровой двойник)
 - [ ] Организация Lean по ключевым процессам
 
@@ -63,6 +63,10 @@
 * небольшой годовой подписки
 
 
+## Системные требования
+* Windows 7+
+
+* .NET Desktop Runtime 5.0.10 [x64](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.10-windows-x64-installer)| [x86](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.10-windows-x86-installer)
 
 
 https://kurakin-anton.ru/projects/stratoplan
