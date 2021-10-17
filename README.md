@@ -1,6 +1,6 @@
 # Starto.Plan - cистема управления стратегией предприятия
 
-Версия 0.4 [СКАЧАТЬ](https://github.com/anton-dot/Starto.Plan/releases/download/v0.4/StratoPlan_0.4.0.zip)
+Версия 0.4.1 [СКАЧАТЬ](https://github.com/anton-dot/Starto.Plan/releases/download/0.4.1/StratoPlan_0.4.1.zip)
 
 
 ## Управление стратегией | Управление продуктами | Управление проектами
